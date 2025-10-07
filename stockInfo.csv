@@ -1,0 +1,5 @@
+ticker,stockName,capitalization,currentPrice
+BTC,Bitcoin,1670000000000.0,69250.00
+AAPL,Apple,2980000000000.0,190.80
+TSLA,Tesla,812000000000.0,224.10
+MSFT,Microsoft,2890000000000.0,319.30
